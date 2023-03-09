@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj": {}
+    "C:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj": {
+    "C:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj",
         "projectName": "TODO_WEBAPI",
-        "projectPath": "c:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj",
+        "projectPath": "C:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\TODO_WEBAPI.csproj",
         "packagesPath": "C:\\Users\\mkabu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\obj\\",
+        "outputPath": "C:\\Users\\mkabu\\source\\repos\\TODO_WEBAPI\\TODO_WEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
